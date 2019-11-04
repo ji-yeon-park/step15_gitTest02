@@ -10,6 +10,7 @@ public class しさし {
 		System.out.println("しさし");
 		System.out.println("しさし");
 		System.out.println("しさし");
+
 		}
 	}
 }
