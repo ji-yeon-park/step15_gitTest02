@@ -1,8 +1,0 @@
-package com.kosta.service;
-
-public class EmpService {
-
-	public void insert() {
-		System.out.println("empService ¿‘¥œ¥Ÿ");
-	}
-}
